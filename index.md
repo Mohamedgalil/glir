@@ -8,11 +8,6 @@ description: A Practical Global-local Integrated Reactive Planner towards Safe H
 
 Submitted to the IEEE 27th International Conference on Emerging Technologies and Factory Automation (ETFA).
 
-Preprint: 
-
-
-[![GLIR](https://img.youtube.com/vi/YkmY9KdU_cU/0.jpg)](https://youtu.be/YkmY9KdU_cU)
-
 <p align="center">
   <iframe width="900" height="506" src="https://youtu.be/YkmY9KdU_cU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>

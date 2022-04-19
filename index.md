@@ -10,13 +10,12 @@ Submitted to the IEEE 27th International Conference on Emerging Technologies and
 
 Preprint: 
 
-Code: 
-[![GLIR](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://youtu.be/YkmY9KdU_cU)
 
+[![GLIR](https://img.youtube.com/vi/YkmY9KdU_cU/0.jpg)](https://youtu.be/YkmY9KdU_cU)
 
-
----
-<img src="_res/architecture.png" width="407" height="350">
+<p align="center">
+  <iframe width="900" height="506" src="https://youtu.be/YkmY9KdU_cU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 
 ## Abstract

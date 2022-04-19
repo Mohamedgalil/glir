@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title:  GLIR
+description: A Practical Global-local Integrated Reactive Planner towards Safe Human-Robot Collaboration
+---
 
-You can use the [editor on GitHub](https://github.com/Mohamedgalil/glir/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+*Mohamed El-Shamouty, Julian Titze, Sitar Kortik, Werner Kraus and Marco F. Huber*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Submitted to the IEEE 27th International Conference on Emerging Technologies and Factory Automation (ETFA).
 
-### Markdown
+Preprint: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Code: 
+[![GLIR](https://img.youtube.com/vi/VIDEO-ID/0.jpg)](https://youtu.be/YkmY9KdU_cU)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+---
+<img src="_res/architecture.png" width="407" height="350">
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mohamedgalil/glir/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Abstract
+<div align="justify"> In manufacturing, there is a current trend-shift from mass-production to mass-personalization enabled, among others, by the emerging field of human-robot collaboration (HRC), in which humans collaborate or work in proximity with robots. In HRC-scenarios, robots need to exert a desired behaviour that maximizes utility without sacrificing safety and responsiveness. To maximize safety and utility in static environments, state-of-the-art offline motion-planners use computationally-heavy algorithms for approximating the collision-free robot reachability and accordingly generate (sub-) optimal robot trajectories. To enable real-time responsiveness, we propose an integrated global planner to generate sub-optimal trajectories. It relies on a closed-loop reactive controller for executing the global plan while ensuring safety with practical assumptions about the environment. We evaluated GLIR in simulation. In our experiments, our global planner operates at 25Hz and the local planner at 100Hz, enabling their execution in dynamic environments. In all experiments on static scenes with static and dynamic goals, GLIR achieves 100% positive clearance from obstacles.
+</div>

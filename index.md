@@ -9,10 +9,8 @@ description: A Practical Global-local Integrated Reactive Planner towards Safe H
 Submitted to the IEEE 27th International Conference on Emerging Technologies and Factory Automation (ETFA).
 
 <p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/YkmY9KdU_cU" title="GLIR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/iRahvPnEERY" title="GLIR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-
-
 
 
 ## Abstract
